@@ -1,0 +1,165 @@
+.jumbotron{
+    background-color: #1ECBF4;
+    color:#ffffff;
+    padding: 100px 25px;
+}
+.navbar
+{
+    background-color: #1ECBF4;
+    color:#ffffff;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    font-family: Roboto, sans-serif;
+
+}
+.navbar li a, .navbar .navbar-brand{
+    color: #fff !important;
+}
+.navbar-default .navbar-toggle{
+    border-color: transparent;
+    color: #fff !important;
+}
+.navbar-default .navbar-nav > a{
+      color: #ffffff;
+}
+.navbar-right > li > a,
+.navbar-brand{
+    text-transform: uppercase;
+    color: #ffffff;
+    font-style: bold;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a{
+    background-color: #fff !important;
+    color: #1ECBF4 !important;
+}
+
+.h3_myclass{
+    margin-bottom: 50px;
+    font-style: bold;
+}
+.p_detail{
+    color: black;
+    font-size: 18px;
+    margin-bottom: 50px;
+
+}
+.p_comit{
+    
+    font-size: 16px;
+    margin-bottom: 30px;
+    
+
+}
+.content1,
+.content2,
+.content3,
+.content4{
+    margin-bottom: 200px;
+}
+.glyphicon-signal,
+.glyphicon-globe{
+    font-size: 200px;
+    color: #1ECBF4;
+}
+.glyphicon-off,
+.glyphicon-leaf,
+.glyphicon-heart,
+.glyphicon-asterisk,
+.glyphicon-lock,
+.glyphicon-wrench,
+.glyphicon-menu-up {
+   font-size: 40px;
+   color: #1ECBF4;
+   
+}
+.p_service{
+    margin-bottom: 50px;
+}
+.p_space{
+    margin-bottom: 80px;
+
+}
+.container-fluid{
+    padding: 60px 50px;
+}
+.bg-grey{
+    background-color: #f6f6f6;
+}
+.title{
+    
+    font-weight: bold;
+}
+@media screen and (max-width: 768px) {
+    .col-sm-4{
+        text-align: center;
+        margin: 25px 0;
+    }
+    
+}
+.carousel-control.right,
+.carousel-control.left{
+    background-image: none;
+    color:#1ECBF4;
+    margin-top: 60px;
+    
+    
+    
+
+}
+.carousel-indicators li{
+    border-color: #1ECBF4;
+}
+.item h4{
+    font-size: 19px;
+    line-height: 1.375em;
+    font-weight: 400;
+    font-style: italic;
+    margin: 70px 0;
+}
+.carousel-indicators li.active{
+    background-color: #1ECBF4;
+}
+.glyphicon-menu-left,
+.glyphicon-menu-right{
+    font-size: 30px;
+}
+.panel-default > .panel-heading {
+    background-color: #1ECBF4;
+    color: #fff;
+    padding: 25px;
+    border-bottom: 1px solid transparent;
+}
+.panel-footer > .btn{
+    background-color: #1ECBF4;
+}
+.pannel{
+    border: 1px solid #1ECBF4;
+    border-radius: 0 !important;
+    transition: box-shadow 0.5s;
+}
+.panel:hover{
+    box-shadow: 5px 0px 40px rgba(0,0,0,0.2);
+}
+.panel-footer .btn:hover{
+    border: 1px solid #1ECBF4;
+    background-color: #fff !important;
+    color: #1ECBF4;
+}
+.panel-default{
+    border: 2px solid #1ECBF4;
+
+}
+.name-input{
+    margin-right: 40px;
+}
+.btn-request{
+    margin-left: 600px;
+    color: black;
+}
+
+
